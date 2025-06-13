@@ -39,6 +39,6 @@ Nosso projeto também deverá prover uma classe `Queue` que implemente o funcion
 Contudo, ao abrir seu arquivo, observamos que nada foi implementado para essa classe.
 Certamente obra de um desenvolvedor muito desatento! :thinking:
 
-Por outro lado, esse mesmo desenvolvedor deixou os testes da classe devidamente implementados no aruqivo `QueueTest.java`.
+Por outro lado, esse mesmo desenvolvedor deixou os testes da classe devidamente implementados no arquivo `QueueTest.java`.
 
 Baseado nas informações presentes nos métodos de teste, aplique a técnica de desenvolvimento orientado a testes para implementar as funcionalidades da classe `Queue`.
