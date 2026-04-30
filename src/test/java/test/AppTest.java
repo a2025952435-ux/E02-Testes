@@ -1,0 +1,1 @@
+package test; import org.junit.Test; import stack.Stack; import static org.junit.Assert.*; public class AppTest { @Test public void t() { Stack<String> s = new Stack<>(); assertTrue(s.estaVazia()); s.empilhar("A"); assertFalse(s.estaVazia()); } }

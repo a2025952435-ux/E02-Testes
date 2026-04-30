@@ -1,0 +1,1 @@
+package stack; import java.util.ArrayList; public class Stack<T> { private ArrayList<T> e = new ArrayList<>(); public void empilhar(T i) { e.add(i); } public T desempilhar() { return e.remove(e.size()-1); } public boolean estaVazia() { return e.isEmpty(); } }
